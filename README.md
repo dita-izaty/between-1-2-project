@@ -12,8 +12,7 @@ https://between-once-and-twice.netlify.app/
 
 ## Screenshots
 
-![ezgif com-resize](https://github.com/dita-izaty/between-1-2-project/assets/69719643/292b3518-0ee0-45f7-b3a2-d5b37065511c)
-
+![between1n2](https://github.com/dita-izaty/between-1-2-project/assets/69719643/7e439397-d17f-422d-a333-6679d8bc1035)
 
 ## Installation
 

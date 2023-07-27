@@ -1,0 +1,123 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+.logo1 {
+  height: 6em;
+  padding: 1em;
+  top: 5rem;
+  will-change: filter;
+  margin: 20 auto;
+}
+.logo1:hover {
+  filter: drop-shadow(0 0 2em #9B7DD4);
+}
+.logo1.react:hover {
+  filter: drop-shadow(0 0 2em #9B7DD4);
+}
+.logo2 {
+  height: 6em;
+  padding: 1em;
+  will-change: filter;
+  margin: 0 auto;
+}
+.logo2:hover {
+  filter: drop-shadow(0 0 2em #EE2737);
+}
+.logo2.react:hover {
+  filter: drop-shadow(0 0 2em #EE2737);
+}
+
+.card {
+  padding: 2em;
+}
+
+.type {
+  overflow: hidden;
+  border-right: .15em #5BC2E7e;
+  width: 0;
+  animation: 
+    typing 2s steps(20, end) forwards;
+}
+.type1 {
+  overflow: hidden;
+  border-right: .15em #5BC2E7e;
+  font-size: 1rem;
+  width: 0;
+  animation: 
+    typing 1s steps(20, end) forwards;
+  animation-delay: 1.5s;
+}
+.type2 {
+  overflow: hidden;
+  border-right: .15em #5BC2E7e;
+  font-size: 1rem;
+  width: 0;
+  animation: 
+    typing 1s steps(20, end) forwards;
+  animation-delay: 2.5s;
+}
+.type3 {
+  overflow: hidden;
+  border-right: .15em #5BC2E7e;
+  font-size: 1rem;
+  width: 0;
+  animation: 
+    typing 1s steps(20, end) forwards;
+  animation-delay: 3.5s;
+}
+.type4 {
+  overflow: hidden;
+  border-right: .15em #5BC2E7e;
+  font-size: 1rem;
+  width: 0;
+  animation: 
+    typing 1s steps(20, end) forwards;
+  animation-delay: 4.5s;
+}
+.type5 {
+  overflow: hidden;
+  border-right: .15em #5BC2E7e;
+  font-size: 1rem;
+  width: 0;
+  animation: 
+    typing 3s steps(20, end) forwards;
+  animation-delay: 5.5s;
+}
+.type6 {
+  overflow: hidden;
+  border-right: .15em #5BC2E7e;
+  font-size: 1rem;
+  width: 0;
+  animation: 
+    typing 2s steps(20, end) forwards;
+  animation-delay: 8.5s;
+}
+.type7 {
+  overflow: hidden;
+  border-right: .15em #5BC2E7e;
+  font-size: 1rem;
+  width: 0;
+  animation: 
+    typing 1s steps(20, end) forwards;
+  animation-delay: 9.5s;
+}
+.type8 {
+  overflow: hidden;
+  border-right: .15em #5BC2E7e;
+  font-size: 1rem;
+  width: 0;
+  animation: 
+    typing 1s steps(20, end) forwards;
+  animation-delay: 10s;
+}
+.container {
+  display: inline-block;
+}
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}

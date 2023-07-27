@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    background-color: #FFECD2;
+  }
+  @font-face {
+    font-family : 'Monologue';
+    src: url('./fonts/monologue.ttf');
+  }
+  @font-face {
+    font-family : 'Mont';
+    src: url('./fonts/mont-heavy.otf');
+  }
+  @font-face {
+    font-family : 'Neue';
+    src: url('./fonts/bebasneue.ttf');
+  }
+  @font-face {
+    font-family : 'Varela';
+    src: url('./fonts/varela.ttf');
+  }
+}
